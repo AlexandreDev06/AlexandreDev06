@@ -1,9 +1,9 @@
 ### Hello World 👋
-# I'm Alexandre Souza
+# Sou Alexandre Souza
  - Moro no Brasil, São Paulo.🏖️ 
  - Trabalho com Ruby on Rails em desenvolvimento de sistemas e sites. :desktop_computer: :keyboard: :computer_mouse: 💾 
 
-## My INFO:
+## Minhas informações:
 <div>
   <a href="https://github.com/AlexandreDev06">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreDev06&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
