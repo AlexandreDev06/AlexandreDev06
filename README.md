@@ -13,7 +13,7 @@
 ## My Skills:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="github" width="40" height="40" style="max-width:100%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
