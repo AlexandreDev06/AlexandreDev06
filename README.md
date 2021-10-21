@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/AlexandreDev06">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreDev06&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreDev06&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreDev06&layout=compact&langs_count=7&theme=radical&hide=php"/>
 </div>
 
 ## My Skills:
@@ -28,7 +28,7 @@
 
 <!--
 <a href="https://www.linkedin.com/in/alexandredev06/" target="_blank">
-<img align="center" alt="riandapaixao-linkedin" height="30' width="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"style="max-width:100%;">
+<img align="center" alt="alexandredev06-linkedin" height="30' width="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"style="max-width:100%;">
 </a>
                                                            
 ![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
