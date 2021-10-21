@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreDev06&layout=compact&langs_count=5&theme=radical&hide=php,c,java"/>
 </div>
 
-## My Skills:
+## Minhas habilidades:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="github" width="40" height="40" style="max-width:100%;"/>
@@ -22,7 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="github" width="40" height="40" style="max-width:100%;"/>
 
 
-## Connect with me:
+## Se conecte comigo:
 <a href="https://www.linkedin.com/in/alexandredev06/" target="_blank">
 <img align="center" alt="alexandredev06-linkedin" height="30' width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"style="max-width:100%;">
 </a>
