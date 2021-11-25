@@ -31,6 +31,9 @@
 <a href="https://www.linkedin.com/in/alexandredev06/" target="_blank">
 <img align="center" alt="alexandredev06-linkedin" height="30' width="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"style="max-width:100%;">
 </a>
+                                                             
+                                                             
+  ![Snake animation](https://github.com/Gamaii/Gamaii/blob/output/github-contribution-grid-snake.svg)
                                                            
 ![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
